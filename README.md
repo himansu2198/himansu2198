@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm Himansu!
-🔭 I’m currently working on my skill<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  about cloud architect & Software development   <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Exploring Cloud Driven Technologies<br>🌱 I’m currently learning  about Cloud Architect & Software development   <br>💬 Ask me about any related to Cloud.  <br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
