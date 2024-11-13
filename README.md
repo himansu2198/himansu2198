@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me: I'm Himansu!
-🔭 I’m currently working on my skill<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# I'm Himansu!
+🔭 I’m currently working on my skill<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  about cloud architect & Software development   <br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
