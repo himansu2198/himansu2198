@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Himansu!
-Aspiring Full-Stack Software Developer | Web Development Enthusiast | Problem Solver
-🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Exploring Cloud Driven Technologies<br>🌱 I’m currently learning  about Cloud Architect & Software development   <br>💬 Ask me about anything related to Cloud.  <br>⚡ Fun fact
+👋 Hi, I'm Himansu Sekhar Behura 
+🚀 Aspiring Full-Stack Software Developer & Cloud Enthusiast | Problem Solver  
+
+🔭 I’m currently working on building **full-stack web applications** and exploring **cloud-driven solutions** using AWS.  <br>👯 I’m looking to collaborate on **open-source projects** and **team hackathons** related to **Web Development, Cloud.<br>🌱I’m currently learning Cloud Architecture & Full-Stack Development. <br>💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, AWS. <br>⚡ Fun fact: I love building apps that solve real-world problems.
 
 
 # 💻 Tech Stack:
