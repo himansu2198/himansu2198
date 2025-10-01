@@ -1,4 +1,4 @@
-# Hi 👋  
+# Hi 👋
 I'm Himansu Sekhar Behura  
 🚀 Aspiring Full-Stack Software Developer & Cloud Enthusiast | Problem Solver  
 
@@ -6,7 +6,8 @@ I'm Himansu Sekhar Behura
 👯 I’m looking to collaborate on **open-source projects** and **team hackathons** related to Web Development & Cloud.  
 🌱 I’m currently learning **Cloud Architecture & Full-Stack Development**.  
 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, AWS**.  
-⚡ Fun fact: I love building projects that solve **real-world problems**.  
+⚡ Fun fact: I love building apps that solve **real-world problems**.  
+  
 
 
 
