@@ -1,23 +1,16 @@
-### Hi there 👋
+### Hi there 👋  
 
-<!--
-**himansu2198/himansu2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hi, I'm Himansu Sekhar Behura 
+# Hi, I'm Himansu Sekhar Behura  
 🚀 Aspiring Full-Stack Software Developer & Cloud Enthusiast | Problem Solver  
 
-🔭 I’m currently working on building **full-stack web applications** and exploring **cloud-driven solutions** using AWS.  <br>👯 I’m looking to collaborate on **open-source projects** and **team hackathons** related to **Web Development, Cloud.<br>🌱I’m currently learning Cloud Architecture & Full-Stack Development. <br>💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, AWS. <br>⚡ Fun fact: I love building apps that solve real-world problems.
+---
+
+🔭 I’m currently working on building **full-stack web applications** and exploring **cloud-driven solutions** using AWS.  
+👯 I’m looking to collaborate on **open-source projects** and **team hackathons** related to **Web Development & Cloud**.  
+🌱 I’m currently learning **Cloud Architecture & Full-Stack Development**.  
+💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, AWS**.  
+⚡ Fun fact: I love building apps that solve **real-world problems**.  
+
 
 
 # 💻 Tech Stack:
