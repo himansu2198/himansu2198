@@ -1,5 +1,4 @@
-# Hi 👋
-I'm Himansu Sekhar Behura  
+# Hi 👋,I'm Himansu Sekhar Behura  
 🚀 Aspiring Full-Stack Software Developer & Cloud Enthusiast | Problem Solver  
 
 🔭 I’m currently working on building **full-stack web applications** and exploring **cloud-driven solutions** using AWS.  
