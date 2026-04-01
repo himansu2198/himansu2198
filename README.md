@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himansu%20Sekhar%20Behura&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+%F0%9F%91%8B+I%27m+Himansu;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;MERN+%7C+Next.js+%7C+AWS+%7C+Django;Open+to+SDE+Roles+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himansu%20Sekhar%20Behura&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20and%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Himansu;Full-Stack+Developer;Cloud+AI+Enthusiast;MERN+%7C+Next.js+%7C+Django;Open+to+SDE+Roles+%26+Collaborations)](https://git.io/typing-svg)
 
 </div>
 
