@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ### 🧑‍💻 About Me
 
@@ -18,7 +18,7 @@
 ☁️ Exploring **AWS & scalable architectures**
 🤝 Open to **SDE roles & collaborations**
 💬 Ask me about **MERN, Next.js, APIs**
-📫 Reach me at **bhimansusekhar2004@gmail.com**
+📫 Reach me at **himansubehura2198@gmail.com**
 
 <br clear="right"/>
 
