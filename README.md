@@ -21,7 +21,7 @@
 ☁️ Exploring **AWS & scalable architectures**  
 🤝 Open to **SDE roles & collaborations**  
 💬 Ask me about **MERN, Next.js, APIs**  
-📫 Reach me at **himansubehura2198@gmail.com**
+📫 Reach me at **bhimansusekhar2004@gmail.com**
 
 <br clear="right"/>
 
