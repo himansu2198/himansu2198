@@ -1,13 +1,17 @@
-# Hi 👋,I'm Himansu Sekhar Behura  
-🚀 Aspiring Full-Stack Software Developer & Cloud Enthusiast | Problem Solver  
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🔭 I’m currently working on building **full-stack web applications** and exploring **cloud-driven solutions** using AWS.  
-👯 I’m looking to collaborate on **open-source projects** and **team hackathons** related to Web Development & Cloud.  
-🌱 I’m currently learning **Cloud Architecture & Full-Stack Development**.  
-💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB, AWS**.  
-⚡ Fun fact: I love building projects that solve **real-world problems**.  
-  
+# Hi 👋, I'm Himansu Sekhar Behura  
 
+🚀 Full-Stack Developer | Cloud & AI Enthusiast | Problem Solver  
+
+🎓 B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal  
+💼 Ex-Full Stack Intern @ DeepSurge AI & Amdox Technologies  
+
+- 🔭 Building real-world full-stack applications  
+- ⚡ Created HealSync (reduced missed appointments by 25%)  
+- ☁️ Exploring AWS & scalable architectures  
+- 🤝 Open to SDE roles & collaborations  
+- 💬 Ask me about MERN, Next.js, APIs  
 
 
 
