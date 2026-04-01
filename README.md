@@ -73,7 +73,7 @@
 <br/><br/>
 
 <!-- LANGUAGES (like your 2nd image) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himansu2198&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
