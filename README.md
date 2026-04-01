@@ -6,8 +6,9 @@
 </div>
 
 ---
-
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### 🧑‍💻 About Me
 
@@ -18,10 +19,16 @@
 ☁️ Exploring **AWS & scalable architectures**
 🤝 Open to **SDE roles & collaborations**
 💬 Ask me about **MERN, Next.js, APIs**
-📫 Reach me at **bhimansusekhar2004@gmail.com**
+📫 Reach me at ****
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" style="border-radius:12px;" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 💻 Tech Stack
