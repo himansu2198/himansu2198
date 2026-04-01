@@ -1,86 +1,149 @@
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# Hi 👋, I'm Himansu Sekhar Behura  
-
-🚀 Full-Stack Developer | Cloud & AI Enthusiast | Problem Solver  
-
-🎓 B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal  
-💼 Ex-Full Stack Intern @ DeepSurge AI & Amdox Technologies  
-
-- 🔭 Building real-world full-stack applications  
-- ⚡ Created HealSync (reduced missed appointments by 25%)  
-- ☁️ Exploring AWS & scalable architectures  
-- 🤝 Open to SDE roles & collaborations  
-- 💬 Ask me about MERN, Next.js, APIs  
-
-
-
-# 💻 Tech Stack  
-
-### 🚀 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
-</p>
-
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=6" />
-</p>
-
-### ⚙️ Backend & Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma&perline=6" />
-</p>
-
-### ☁️ Cloud & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github&perline=6" />
-</p>
-
-### 🚀 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
-</p>
-
-### 🎨 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=6" />
-</p>
-
-### ⚙️ Backend & Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma&perline=6" />
-</p>
-
-### ☁️ Cloud & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github&perline=6" />
-</p>
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himansu2198&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-# 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himansu2198&theme=onedark&no-frame=true&margin-w=10"/>
-</p>
-
-
-### ✍️ Random Dev Quote  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-### 😂 Random Dev Meme  
-<img src="https://randommeme-five.vercel.app/" width="400"/>
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himansu%20Sekhar%20Behura&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+ 
+</div>
+ 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Himansu;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Building+Real-World+Applications+%F0%9F%94%A7;Open+to+SDE+Roles+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+ 
+</div>
+ 
 ---
-[![](https://visitcount.itsvg.in/api?id=himansu2198&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+ 
+### 👨‍💻 About Me
+ 
+🎓 **B.Tech CSE** (Cloud Computing & Automation) @ **VIT Bhopal**  
+💼 **Ex-Full Stack Intern** @ DeepSurge AI & Amdox Technologies  
+🔭 Building **real-world full-stack applications**  
+⚡ Created **HealSync** — reduced missed appointments by **25%**  
+☁️ Exploring **AWS & scalable architectures**  
+🤝 Open to **SDE roles & collaborations**  
+💬 Ask me about **MERN, Next.js, APIs**  
+📫 Reach me at **himansu2198@github**
+ 
+<br clear="right"/>
+ 
+---
+ 
+## 💻 Tech Stack
+ 
+### 🚀 Languages
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp&perline=8&theme=dark" />
+</p>
+ 
+### 🎨 Frontend
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&perline=8&theme=dark" />
+</p>
+ 
+### ⚙️ Backend & Database
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,postgresql,prisma&perline=8&theme=dark" />
+</p>
+ 
+### ☁️ Cloud, DevOps & Tools
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux&perline=8&theme=dark" />
+</p>
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+ 
+<a href="https://github.com/himansu2198">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://streak-stats.demolab.com/?user=himansu2198&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+ 
+</div>
+ 
+---
+ 
+## 🏆 GitHub Achievements
+ 
+<div align="center">
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=himansu2198&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+ 
+</div>
+ 
+---
+ 
+## 📈 Contribution Graph
+ 
+<div align="center">
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himansu2198&bg_color=1a1b27&color=628fdb&line=6e56cf&point=ffffff&area=true&hide_border=true" />
+ 
+</div>
+ 
+---
+ 
+## 🚀 Featured Projects
+ 
+<div align="center">
+ 
+<a href="https://github.com/himansu2198">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himansu2198&repo=HealSync&theme=tokyonight&hide_border=true" />
+</a>
+ 
+</div>
+ 
+---
+ 
+## ✍️ Random Dev Quote
+ 
+<div align="center">
+ 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+ 
+</div>
+ 
+---
+ 
+## 😂 Random Dev Meme
+ 
+<div align="center">
+ 
+<img src="https://randommeme-five.vercel.app/" style="height: 400px;" />
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+### 🔗 Connect with Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himansu2198)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himansu2198)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himansu2198@gmail.com)
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+[![](https://visitcount.itsvg.in/api?id=himansu2198&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+ 
+</div>
