@@ -6,30 +6,21 @@
 </div>
 
 ---
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal  
-💼 Ex-Full Stack Intern @ DeepSurge AI & Amdox Technologies  
-🔭 Building real-world full-stack applications  
-⚡ Built HealSync (reduced missed appointments by 25%)  
-☁️ Exploring AWS & scalable systems  
-🤝 Open to SDE roles & collaborations  
-💬 Ask me about MERN, Next.js, APIs  
-📫 himansubehura2198@gmail.com  
+🎓 **B.Tech CSE (Cloud Computing & Automation)** @ VIT Bhopal  
+💼 **Ex-Full Stack Intern** @ DeepSurge AI & Amdox Technologies  
+🔭 Building **real-world full-stack applications**  
+⚡ Built **HealSync** (reduced missed appointments by 25%)  
+☁️ Exploring **AWS & scalable systems**  
+🤝 Open to **SDE roles & collaborations**  
+💬 Ask me about **MERN, Next.js, APIs**  
+📫 **himansubehura2198@gmail.com**
 
-</td>
+<br clear="right"/>
 
-<td width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</td>
-
-</tr>
-</table>
----
 
 ## 💻 Tech Stack
 <div align="center">
