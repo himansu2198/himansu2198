@@ -18,33 +18,41 @@
 ☁️ Exploring **AWS & scalable architectures**
 🤝 Open to **SDE roles & collaborations**
 💬 Ask me about **MERN, Next.js, APIs**
-📫 Reach me at **himansubehura2198@gmail.com**
+📫 Reach me at **bhimansusekhar2004@gmail.com**
 
 <br clear="right"/>
 
 ---
 
 ## 💻 Tech Stack
+<div align="center">
 
-### 🚀 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,sql&theme=dark" />
-</p>
+### Languages
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgresql,mongodb&theme=dark" />
-</p>
+### Frontend
 
-### ☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
