@@ -5,7 +5,7 @@
 
 </div>
 
----
+
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧑‍💻 About Me
@@ -58,25 +58,28 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- LEFT: STREAK (circle style) -->
+<img height="180" src="https://streak-stats.demolab.com?user=himansu2198&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 &nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<!-- RIGHT: MAIN STATS -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himansu2198&theme=tokyonight&hide_border=true" />
+<!-- LANGUAGES -->
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
-
----
 
 ## 📉 Contribution Graph
 
