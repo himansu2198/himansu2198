@@ -63,22 +63,18 @@
 
 <div align="center">
 
-<!-- LEFT: STREAK (circle style) -->
+<!-- STREAK (circle style like your card) -->
 <img height="180" src="https://streak-stats.demolab.com?user=himansu2198&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-&nbsp;&nbsp;
+<br/><br/>
 
-<!-- RIGHT: MAIN STATS -->
+<!-- MAIN STATS -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<!-- LANGUAGES -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<!-- LANGUAGES (like your 2nd image) -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
