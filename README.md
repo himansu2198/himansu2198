@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himansu%20Sekhar%20Behura&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Himansu;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;MERN+%7C+Next.js+%7C+AWS+%7C+Django;Open+to+SDE+Roles+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+%F0%9F%91%8B+I%27m+Himansu;Full-Stack+Developer+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;MERN+%7C+Next.js+%7C+AWS+%7C+Django;Open+to+SDE+Roles+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,15 +59,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=himansu2198&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=himansu2198&theme=tokyonight&hide_border=true" />
 
 </div>
 
