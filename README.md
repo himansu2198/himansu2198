@@ -9,7 +9,7 @@
 ---
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **B.Tech CSE (Cloud Computing & Automation)** @ VIT Bhopal  
 💼 **Ex-Full Stack Intern** @ DeepSurge AI & Amdox Technologies  
@@ -73,7 +73,8 @@
 <br/><br/>
 
 <!-- LANGUAGES (like your 2nd image) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himansu2198&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himansu2198&theme=tokyonight" />
+
 </div>
 
 ## 📉 Contribution Graph
