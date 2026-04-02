@@ -68,11 +68,9 @@
 
 <br/><br/>
 
-<!-- MAIN STATS (REAL) -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=himansu2198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
+<!-- MAIN STATS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himansu2198&theme=tokyonight" />
 <br/><br/>
-
 <!-- LANGUAGES (like your 2nd image) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himansu2198&theme=tokyonight" />
 
