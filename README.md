@@ -64,13 +64,13 @@
 <div align="center">
 
 <!-- STREAK (REAL) -->
-<img height="180" src="https://streak-stats.demolab.com?user=himansu2198&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=himansu2198&theme=tokyonight&hide_border=true" />
 <br/><br/>
 
 <!-- MAIN STATS -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himansu2198&theme=tokyonight" />
 <br/><br/>
+
 <!-- LANGUAGES (like your 2nd image) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himansu2198&theme=tokyonight" />
 
