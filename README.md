@@ -11,15 +11,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech CSE (Cloud Computing & Automation)** @ VIT Bhopal  
-💼 **Ex-Full Stack Intern** @ DeepSurge AI & Amdox Technologies  
-🔭 Building **real-world full-stack applications**  
-⚡ Created **HealSync** — reduced missed appointments by **25%** 
-🐍 Python Foundation Certified (Infosys Springboard)
-☁️ Exploring **AWS & scalable architectures**  
-🤝 Open to **SDE roles & collaborations**  
-💬 Ask me about **MERN, Next.js, APIs**  
-📫 Reach me at **himansusekhar2004@gmail.com**
+🎓 B.Tech Computer Science & Engineering @ VIT Bhopal  
+💼 Ex-Full Stack Intern @ DeepSurge AI & Amdox Technologies  
+🚀 Building production-grade full-stack applications  
+⚡ Built HealSync — reduced missed appointments by 25%  
+🐍 Python Foundation Certified (Infosys Springboard)  
+☁️ Exploring AWS, DevOps & scalable systems  
+🤝 Open to SDE / Web Developer roles  
+💬 MERN | Next.js | APIs | Backend Systems  
+📫 himansusekhar2004@gmail.com
 
 <br clear="right"/>
 
