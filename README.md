@@ -17,7 +17,7 @@
 ⚡ Built HealSync — reduced missed appointments by 25%  
 🐍 Python Foundation Certified (Infosys Springboard)  
 ☁️ Exploring AWS, DevOps & scalable systems  
-🤝 Open to SDE / Web Developer roles  
+🤝 Open to SDE / Backend / Full Stack Developer roles  
 💬 MERN | Next.js | APIs | Backend Systems  
 📫 himansusekhar2004@gmail.com
 
